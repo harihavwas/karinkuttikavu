@@ -1,0 +1,20 @@
+
+.image-bg
+{
+    fill: black;
+
+}
+@media(min-width:576px) and (max-width:768px)
+{
+    .cap-on-img
+    {
+        font-size: xx-small;
+    }
+}
+@media(min-width:768px) and (max-width:992px)
+{
+    .cap-on-img
+    {
+        font-size: xx-small;
+    }
+}
